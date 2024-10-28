@@ -4,11 +4,7 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [Analysis Process](#analysis-process)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Future Improvements](#future-improvements)
+
 
 ## Introduction
 The Taste of the World Cafe, known for its diverse menu and hearty portions, recently introduced a new menu. This project aims to leverage customer data to evaluate the performance of these new menu items and gain insights into customer preferences. By analyzing this data, we can help the restaurant understand what’s resonating with customers and identify opportunities for improvement
