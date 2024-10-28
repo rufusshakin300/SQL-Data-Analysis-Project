@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Dataset](#dataset)
-
+- [PPT](#PPt)
 
 ## Introduction
 The Taste of the World Cafe, known for its diverse menu and hearty portions, recently introduced a new menu. This project aims to leverage customer data to evaluate the performance of these new menu items and gain insights into customer preferences. By analyzing this data, we can help the restaurant understand what’s resonating with customers and identify opportunities for improvement
@@ -21,6 +21,7 @@ Customer Behavior Insights: Combine items and orders data to reveal popular and 
 https://maven-datasets.s3.amazonaws.com/Restaurant+Orders/Restaurant+Orders+MySQL.zip
 
 
-
+## PPT
+https://docs.google.com/presentation/d/1nW70FcLIKEmHp5Krlf9aKxgCpj9-2Q2R/edit?usp=drive_link&ouid=101596146750893154535&rtpof=true&sd=true
 
 
